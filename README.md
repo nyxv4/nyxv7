@@ -12,16 +12,15 @@
 </h2>
 
 ## Contacts
-[Discord](https://discord.gg/5gJqhQmrdS)
+[Discord]()
 <br/>
-[Youtube](https://youtube.com/c/7GrandDadVape) - XYLEX YOUTUBE
+[Youtube]((https://www.youtube.com/@TheyFearSavy)) - SAVY YOUTUBE
 
 ## Usage
 1. Download the specific scripting utility of your choice.
 2. Execute the provided loadstring below.
 ```luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/qyroke2/VapeV4ForRoblox/main/NewMainScript.lua", true))()
-```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/s4v7/SavyV4/main/NewMainScript.lua", true))()```
 
 ## Possible Issues
 Half of the time its usually the scripting utility at fault, please make sure the utility meets certain quality standards such as.
